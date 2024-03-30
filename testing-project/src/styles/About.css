@@ -1,0 +1,24 @@
+.header {
+  background-color: white;
+  padding: 20px 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header img {
+  width: 100%;
+}
+
+.content {
+  padding: 20px;
+  width: 90%;
+  margin-top: 20px;
+}
+
+#section-1 {
+  color: #00214d;
+  font-size: 24px;
+  font-weight: bold;
+}
